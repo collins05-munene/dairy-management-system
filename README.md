@@ -21,7 +21,6 @@ A modern Dairy Management System built using Django and Django REST Framework to
 - Django REST Framework
 - SQLite / PostgreSQL
 - HTML/CSS/JavaScript
-- Bootstrap
 
 
 ## Installation
